@@ -16,11 +16,23 @@
 - **害羞**: nMsTqXW.jpg
 - **平静**: uoiwNh9.jpg
 - **开心**: 4pJvoo8.jpg
-- **心虚**: mxuwhos.jpg, mxuwhos.jpg, hRYOYzK.jpg
 - **思考**: SEJESy5.jpg, v9JVduy.jpg
 - **摸摸**: S50ubdT.jpg
 - **来了**: nHPwAt0.jpg
 - **累累**: LGAmXy8.jpg
 - **老婆**: huzzMEj.jpg, LBDa9WZ.jpg
-- **贴贴**: gpcs3uT.jpg, J3ckAGO.jpg, Ptp81RH.jpg, 1JP7gBS.jpg
+- **贴贴**: gpcs3uT.jpg, J3ckAGO.jpg, Ptp81RH.jpg, 1JP7gBS.jpg, tiegtie2.jpg
 - **震惊**: 0mqz6Ig.jpg
+- **兴奋**: xingfen.jpg
+- **赞**: zan.jpg
+- **寂寞**: jimo.jpg
+- **生气**: shengqi.jpg, shengqi2.jpg
+- **感谢**: ganxie.jpg
+- **心虚**: mxuwhos.jpg, hRYOYzK.jpg, xinxu2.jpg
+- **打招呼**: dazhaohu.jpg
+- **早上好**: zaoshanghao.jpg
+- **累**: lei.jpg
+- **晚安**: wanan.jpg
+- **粘人**: zhanren.jpg
+- **要哄**: yaohong.jpg
+- **被看扁了**: beikanbianle.jpg
