@@ -24,3 +24,8 @@
 - **老婆**: huzzMEj.jpg, LBDa9WZ.jpg
 - **贴贴**: gpcs3uT.jpg, J3ckAGO.jpg, Ptp81RH.jpg, 1JP7gBS.jpg
 - **震惊**: 0mqz6Ig.jpg
+- **兴奋**: xingfen.jpg
+- **赞**: zan.jpg
+- **寂寞**: jimo.jpg
+- **生气**: shengqi.jpg
+- **感谢**: ganxie.jpg
