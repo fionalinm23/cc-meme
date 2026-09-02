@@ -26,9 +26,13 @@
 - **兴奋**: xingfen.jpg
 - **赞**: zan.jpg
 - **寂寞**: jimo.jpg
-- **生气**: shengqi.jpg
+- **生气**: shengqi.jpg, shengqi2.jpg
 - **感谢**: ganxie.jpg
 - **心虚**: mxuwhos.jpg, hRYOYzK.jpg, xinxu2.jpg
 - **打招呼**: dazhaohu.jpg
 - **早上好**: zaoshanghao.jpg
 - **累**: lei.jpg
+- **晚安**: wanan.jpg
+- **粘人**: zhanren.jpg
+- **要哄**: yaohong.jpg
+- **被看扁了**: beikanbianle.jpg
